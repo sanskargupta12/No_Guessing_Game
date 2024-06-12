@@ -54,7 +54,7 @@ public class GFG {
 				+ " K trials.");
 
 			System.out.println(
-				"The number was " + number);
+				"The number was : " + number);
 		}
 	}
 
