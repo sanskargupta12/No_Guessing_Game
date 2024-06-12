@@ -19,12 +19,12 @@ public class GFG {
 			"A number is chosen"
 			+ " between 1 to 100."
 			+ "Guess the number"
-			+ " within 5 trials.");
+			+ " within the 5 trials.");
 
 		for (i = 0; i < K; i++) {
 
 			System.out.println(
-				"Guess the number:");
+				"Guess the number!!!:");
 
 			guess = sc.nextInt();
 
